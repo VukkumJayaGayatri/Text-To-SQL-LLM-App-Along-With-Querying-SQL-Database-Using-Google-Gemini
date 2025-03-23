@@ -9,7 +9,7 @@ Perform SQL operations on a SQLite database (student.db).
 
 Display results using an interactive Streamlit interface.
 
-![](Images/SQL_querying.png)
+![](https://github.com/VukkumJayaGayatri/Text-To-SQL-LLM-App-Along-With-Querying-SQL-Database-Using-Google-Gemini/blob/main/Images/SQL%20querying.png)
 
 
 ## Sample Questions

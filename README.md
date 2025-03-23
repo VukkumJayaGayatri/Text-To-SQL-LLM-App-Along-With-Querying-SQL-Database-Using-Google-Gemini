@@ -9,6 +9,20 @@ Perform SQL operations on a SQLite database (student.db).
 
 Display results using an interactive Streamlit interface.
 
+## Sample Questions
+  - Provide the average marks of all students?
+  - Provide the average marks of all students class wise?
+  - Provide the student name with second highest marks?
+  - Provide the student name with second highest marks class wise?
+  
+## Project Structure
+
+- sql.py: The main Streamlit application script.
+- langchain_helper.py: This has all the langchain code
+- requirements.txt: A list of required Python packages for the project.
+- sqllite.py: database, table creation, inserting, record display
+- .env: Configuration file for storing your Google API key.
+
 Example:
 
 Input: Provide the average marks of all students

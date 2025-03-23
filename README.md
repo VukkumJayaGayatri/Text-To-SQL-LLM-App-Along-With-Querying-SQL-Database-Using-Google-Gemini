@@ -9,7 +9,7 @@ Perform SQL operations on a SQLite database (student.db).
 
 Display results using an interactive Streamlit interface.
 
-![SQL Querying](Images/SQL querying.png)
+![](Images/SQL_querying.png)
 
 
 ## Sample Questions

@@ -9,6 +9,9 @@ Perform SQL operations on a SQLite database (student.db).
 
 Display results using an interactive Streamlit interface.
 
+![SQL Querying](Images/SQL querying.png)
+
+
 ## Sample Questions
   - Provide the average marks of all students?
   - Provide the average marks of all students class wise?
